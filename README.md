@@ -1,0 +1,2 @@
+# Liberty
+MediaWiki Skin
