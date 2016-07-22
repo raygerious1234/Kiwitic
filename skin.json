@@ -79,7 +79,7 @@
 		"remoteSkinPath": "Kiwitic"
 	},
 	"AutoloadClasses": {
-		"SkinLiberty": "SkinKiwitic.php",
-		"LibertyTemplate": "KiwiticTemplate.php"
+		"SkinKiwitic": "SkinKiwitic.php",
+		"KiwiticTemplate": "KiwiticTemplate.php"
 	}
 }
