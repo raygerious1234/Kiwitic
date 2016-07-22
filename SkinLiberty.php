@@ -1,5 +1,5 @@
 <?php
-class SkinLiberty extends SkinTemplate {
+class SkinKiwitic extends SkinTemplate {
 
 	public $skinname = 'kiwitic';
 	public $stylename = 'Kiwitic';
