@@ -10,10 +10,10 @@
 	"type": "skin",
 	"version": "1.0b29",
 	"ValidSkinNames": {
-		"liberty": "Liberty"
+		"kiwitic": "Kiwitic"
 	},
 	"MessagesDirs": {
-		"Liberty": [
+		"Kiwitic": [
 			"i18n"
 		]
 	},
@@ -76,10 +76,10 @@
 	},
 	"ResourceFileModulePaths": {
 		"localBasePath": "",
-		"remoteSkinPath": "Liberty"
+		"remoteSkinPath": "Kiwitic"
 	},
 	"AutoloadClasses": {
-		"SkinLiberty": "SkinLiberty.php",
-		"LibertyTemplate": "LibertyTemplate.php"
+		"SkinLiberty": "SkinKiwitic.php",
+		"LibertyTemplate": "KiwiticTemplate.php"
 	}
 }
