@@ -1,9 +1,9 @@
 <?php
 class SkinLiberty extends SkinTemplate {
 
-	public $skinname = 'liberty';
-	public $stylename = 'Liberty';
-	public $template = 'LibertyTemplate';
+	public $skinname = 'kiwitic';
+	public $stylename = 'Kiwitic';
+	public $template = 'KiwiticTemplate';
 
     public function initPage( OutputPage $out ) {
 		parent::initPage( $out );
