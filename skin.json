@@ -1,14 +1,14 @@
 {
-	"name": "키위키",
+	"name": "키위틱",
 	"author": [
 		"코코아"
 	],
-	"url": "https://kiwiki.hoto.us/wiki/Skin:KiWiKi",
+	"url": "https://hoto.us/xe/KiwiWiki/",
 	"descriptionmsg": "liberty-desc",
 	"namemsg": "skinname-liberty",
 	"license-name": "GPL-3.0+",
 	"type": "skin",
-	"version": "1.0b28",
+	"version": "1.0b29",
 	"ValidSkinNames": {
 		"liberty": "Liberty"
 	},
