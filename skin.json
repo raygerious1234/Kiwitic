@@ -18,7 +18,7 @@
 		]
 	},
 	"ResourceModules": {
-		"skins.kiwitic.styles": {
+		"skins.liberty.styles": {
 			"styles": {
 				"css/font/Nanum Gothic.css": {
 					"media": "all"
@@ -51,7 +51,7 @@
 			"position": "bottom"
 		},
 
-		"skins.kiwitic.bootstrap": {
+		"skins.liberty.bootstrap": {
 			"scripts": [
 				"js/lib/jquery.ba-throttle-debounce.js",
 				"js/lib/jquery.cookie.js",
@@ -61,7 +61,7 @@
 			"position": "bottom"
 		},
 
-		"skins.kiwitic.layoutjs": {
+		"skins.liberty.layoutjs": {
 			"scripts": [
 				"js/login_request.js",
 				"js/live_Recents.js",
