@@ -18,10 +18,10 @@ class SkinKiwitic extends SkinTemplate {
 		$out->addMeta('twitter:creator', '@wikicocoa');
 		$out->addMeta('twitter:image', 'https://kiwki.us/kiwiki.png');
 		$out->addModuleScripts( array(
-		    'skins.kiwitic.bootstrap'
+		    'skins.liberty.bootstrap'
 		) );
 		$out->addModuleScripts( array(
-		    'skins.kiwitic.layoutjs'
+		    'skins.liberty.layoutjs'
 		) );
     }
 
@@ -30,10 +30,10 @@ class SkinKiwitic extends SkinTemplate {
  			$out->addHeadItem( 'font-awesome', '<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css" />' );
 			$out->addHeadItem( 'google-ads', '<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>' );
 		$out->addModuleStyles( array(
-			'skins.kiwitic.styles'
+			'skins.liberty.styles'
 		) );
 	}
 	function addToBodyAttributes( $out, &$bodyAttrs ) {
-		$bodyAttrs['class'] .= " Kiwitic width-size";
+		$bodyAttrs['class'] .= " Liberty width-size";
     }
 }
