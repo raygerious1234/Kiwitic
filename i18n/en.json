@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cocoa"
+		]
+	},
+	"skinname-kiwitic": "Kiwitic",
+	"kiwitic-desc": "KiwiWiki`s Default Skin.",
+	"kiwitic.css": "/* The CSS setting applies to users who use skin Kiwitic */",
+	"kiwitic.js": "/* The JavaScript setting applies to users who use skin Kiwitic */"
+}
