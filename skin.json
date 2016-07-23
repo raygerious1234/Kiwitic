@@ -6,7 +6,7 @@
 	"url": "https://hoto.us/xe/KiwiWiki/",
 	"descriptionmsg": "kiwitic-desc",
 	"namemsg": "skinname-kiwitic",
-	"license-name": "GPL-3.0+",
+	"license-name": "MIT",
 	"type": "skin",
 	"version": "1.0b30",
 	"ValidSkinNames": {
