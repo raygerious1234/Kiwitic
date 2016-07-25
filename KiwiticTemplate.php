@@ -109,15 +109,9 @@ class KiwiticTemplate extends BaseTemplate {
 					<a class="dropdown-item" href="https://tree.taiga.io/project/cocoa-kiwiwiki-issues-tracker">키위위키 이슈 트래커</a>
 					<a class="dropdown-item" href="http://status.kiwki.hoto.us">키위위키 서버 상태</a>
 					<a class="dropdown-item" href="http://twicewiki.net">트둥백과</a>
-					<a class="dropdown-item" href="https://bbs.kiwki.us/notice">공지 게시판</a>
-					<a class="dropdown-item" href="https://bbs.kiwki.us/money">위키 돈 내역 게시판</a>
-					<a class="dropdown-item" href="https://bbs.kiwki.us/question">의견·문의 게시판</a>
-					<a class="dropdown-item" href="https://bbs.kiwki.us/request">건의·요청 게시판</a>
-					<a class="dropdown-item" href="https://bbs.kiwki.us/issuestracker">이슈 트래커 게시판</a>
-					<a class="dropdown-item" href="https://bbs.kiwki.us/declaration">신고 게시판</a>
-					<a class="dropdown-item" href="https://bbs.kiwki.us/free">자유 게시판</a>
+					<a class="dropdown-item" href="https://bbs.kiwki.us/">키위위키 게시판</a>
                 </div>
-			</li>
+            </li>
             <li class="nav-item dropdown">
                 <?php echo Linker::linkKnown( SpecialPage::getTitleFor( 'Specialpages', null ), '<span class="fa fa-gear"></span><span class="hide-title">도구</span>', array( 'class' => 'nav-link dropdown-toggle dropdown-toggle-fix', 'data-toggle' => 'dropdown', ' role' => 'button', 'aria-haspopup' => 'true', 'aria-expanded' => 'false', 'title' => '도구를 보여줍니다.') ); ?>
                 <div class="dropdown-menu" role="menu">
